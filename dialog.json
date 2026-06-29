@@ -1,6 +1,6 @@
 {
   "dialog_settings": {
-    "type": "fullscreen",
+    "type": "normal",
     "show_frequency": "always",
     "show_interval_minutes": 1,
     "countdown_seconds": 3,
