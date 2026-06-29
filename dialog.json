@@ -1,8 +1,8 @@
 {
   "dialog_settings": {
-    "type": "fullscreen",
-    "show_frequency": "once",
-    "show_interval_minutes": 5,
+    "type": "normal",
+    "show_frequency": "always",
+    "show_interval_minutes": 1,
     "countdown_seconds": 3,
     "webview_url": "https://youtube.com/@ismail_abodeef_ismail"
   }
