@@ -1,7 +1,7 @@
 {
   "dialog_settings": {
     "type": "normal",
-    "show_frequency": "once",
+    "show_frequency": "always",
     "show_interval_minutes": 5,
     "countdown_seconds": 5,
     "webview_url": "https://www.google.com"
